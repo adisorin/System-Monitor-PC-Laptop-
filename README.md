@@ -1,4 +1,4 @@
-# System-Monitor-PC-Laptop-
+# System-Monitor-PC-Laptop
 System Monitor – Monitorizare în timp real a resurselor sistemului
 
 <img width="1016" height="740" alt="image" src="https://github.com/user-attachments/assets/c17ac41d-1298-48b1-9225-e5a2b1ee090f" />
